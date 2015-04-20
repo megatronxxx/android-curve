@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">android-curve</string>
+    <string name="title_activity_main">MainActivity</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="curves_array">
+        <item>curve_null</item>
+        <item>negative</item>
+        <item>brannan</item>
+        <item>curve_1977</item>
+        <item>gotham</item>
+        <item>hefe</item>
+        <item>lord_kelvin</item>
+        <item>nashville</item>
+        <item>x_pro_2</item>
+    </string-array>
+</resources>
